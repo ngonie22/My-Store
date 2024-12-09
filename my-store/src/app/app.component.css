@@ -1,0 +1,24 @@
+.main-frame{
+    border: 3px solid orange;
+    background-color: rgb(231, 160, 231);
+    padding: 10px;
+    margin: auto;
+    width: 35%;
+    height: 100%;
+    box-sizing: border-box;
+    
+}
+html, body{
+    height: 100%;
+    margin: 0;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.footer{
+    color: orange;
+    text-align: center;
+    padding-top: 20px;
+}
